@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bologolob
 -  I’m interested in Python programming and software development
 - 🌱 I’m currently learning C++, JavaScript, APIs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software for entry-level
 - 📫 How to reach me dazsoper@gmail.com
 
 <!---
