@@ -1,6 +1,5 @@
--  I’m interested in Python programming and software development
-- 🌱 Currently learning C++, JavaScript, APIs
-- 📫 How to reach me for personal dazsoper@gmail.com
+-  I’m interested in back-end programming and software development
+- Currently learning C++, JavaScript, APIs
 - Work opportunities for junior programmer email: muaazshaikh25@gmail.com
 
 <!---
