@@ -1,5 +1,6 @@
--  I’m interested in back-end programming and software development
-- Currently learning C++, JavaScript, APIs
+- I’m interested in back-end programming and software development
+- Mostly coding with Python, HTML, CSS, JavaScript
+- Currently learning C++ and MySQL
 - Work opportunities for junior programmer email: muaazshaikh25@gmail.com
 
 <!---
