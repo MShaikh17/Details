@@ -1,7 +1,6 @@
-- I’m interested in back-end programming and software development
-- Mostly coding with Python, HTML, CSS, JavaScript
-- Currently learning C++ and MySQL
-- Work opportunities for junior programmer email: muaazshaikh25@gmail.com
+- I’m interested in back-end and fullstack programming and software development
+- Python, HTML, CSS, JavaScript - learing C++
+- email: muaazshaikh25@gmail.com
 
 <!---
 bologolob/bologolob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
