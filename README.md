@@ -1,5 +1,5 @@
-- I’m interested in back-end and fullstack programming and software development
-- Python, HTML, CSS, JavaScript - learing C++
+- I’m interested in back-end and fullstack.
+- Python, HTML, CSS, JavaScript.
 - email: muaazshaikh25@gmail.com
 
 <!---
